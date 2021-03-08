@@ -7,3 +7,4 @@
 5. [동일 연산자 제대로 쓰기](pages/05.md)
 6. [함수를 정의하는 두가지 방법](pages/06.md)
 7. [delete, 언제 쓰는게 좋을까?](pages/07.md)
+8. [String, 헤쳐모여!](pages/08.md)

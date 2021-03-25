@@ -11,3 +11,4 @@
 9. [두 날짜가 며칠 차이?](pages/09.md)
 10. [보기 좋은 Backtick 쓰기도 좋다.](pages/10.md)
 11. [Default Parameter](pages/11.md)
+12. [JS 주소값 활용법](pages/12.md)

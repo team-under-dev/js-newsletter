@@ -14,5 +14,8 @@
 - [11. Default Parameter](pages/11.md)
 - [12. JS 주소값 활용법](pages/12.md)
 - [13. 원시타입과 참조타입](pages/13.md)
-- 14. 조건문 너 멈춰!
+- [14. 조건문, 멈춰!](pages/14.md)
 - [15. 생성자 이해하기](pages/15.md)
+- [16. 호이! 호이스팅이란?](pages/16.md)
+- [17. 잠시만요! 형 바꾸고 가실게요~](pages/17.md)
+- [18. Define the "undefined"](pages/18.md)

@@ -22,6 +22,3 @@ git commit -a -m "Update docs - 01 Global variable"
 
 # gh-pages 브랜치에 PUSH!
 git push origin gh-pages
-
-# 다시 master 브랜치로 돌아온다.
-git checkout master

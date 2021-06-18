@@ -18,3 +18,5 @@
 16. [호이! 호이스팅이란?](pages/16.md)
 17. [잠시만요! 형 바꾸고 가실께요~](pages/17.md)
 18. [Define the "undefined"](pages/18.md)
+19. [아직도 for만 쓰니?](pages/19.md)
+20. [잡았다 요돔(DOM)!](pages/20.md)

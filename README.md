@@ -20,3 +20,4 @@
 18. [Define the "undefined"](pages/18.md)
 19. [아직도 for만 쓰니?](pages/19.md)
 20. [잡았다 요돔(DOM)!](pages/20.md)
+20. [이벤트 전달 : 너가 왜 동작해?](pages/21.md)

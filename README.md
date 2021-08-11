@@ -21,5 +21,5 @@
 19. [아직도 for만 쓰니?](pages/19.md)
 20. [잡았다 요돔(DOM)!](pages/20.md)
 21. [이벤트 전달 : 너가 왜 동작해?](pages/21.md)
-22. [includes():String탐색](pages/22.md)
+22. [includes() : String탐색](pages/22.md)
 23. [Prototype : 너의 원형은..?!](pages/23.md)

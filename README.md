@@ -23,5 +23,6 @@
 21. [이벤트 전달 : 너가 왜 동작해?](pages/21.md)
 22. [includes() : String탐색](pages/22.md)
 23. [Prototype : 너의 원형은..?!](pages/23.md)
-24. [뉴크셋](pages/24.md)
-25. [Closure](pages/25.md)
+24. [Prototype 선언 방법, 뉴크셋](pages/24.md)
+25. [오랜만이야 Closure](pages/25.md)
+26. [for in loop로 객체 들여다보기](pages/26.md)

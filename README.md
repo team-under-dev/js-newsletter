@@ -26,3 +26,5 @@
 24. [Prototype 선언 방법, 뉴크셋](pages/24.md)
 25. [오랜만이야 Closure](pages/25.md)
 26. [for in loop로 객체 들여다보기](pages/26.md)
+27. [Make it! 다차원 배열](pages/27.md)
+28. [☆뽀나쓰☆ Tip of Console](pages/28.md)

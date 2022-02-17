@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "gitbook": "^2.6.9",
-    "graceful-fs": "^4.2.9"
+    "gitbook": "^2.6.9"
   },
   "name": "js-newsletter",
   "description": "![js](js.jpg)",

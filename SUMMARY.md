@@ -29,3 +29,4 @@
 - [26. for in loop로 객체 들여다보기](pages/26.md)
 - [27. Make it! 다차원 배열](pages/27.md)
 - [28. ☆뽀나쓰☆ Tip of Console](pages/28.md)
+- [29. 객체.. 또 객체?](pages/29.md)

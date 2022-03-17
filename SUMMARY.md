@@ -30,3 +30,5 @@
 - [27. Make it! 다차원 배열](pages/27.md)
 - [28. ☆뽀나쓰☆ Tip of Console](pages/28.md)
 - [29. 객체.. 또 객체?](pages/29.md)
+- [30. 상속者들](pages/30.md)
+- [31. 치료가 필요한 정도로 심각한 'try-catch' 중독증입니다.](pages/31.md)

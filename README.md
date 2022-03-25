@@ -31,3 +31,4 @@
 29. [객체.. 또 객체?](pages/29.md)
 30. [상속者들](pages/30.md)
 31. [치료가 필요한 정도로 심각한 'try-catch' 중독증입니다.](pages/31.md)
+32. [Let's switch](pages/32.md)
